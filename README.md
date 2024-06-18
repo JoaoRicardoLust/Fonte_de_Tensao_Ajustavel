@@ -1,4 +1,4 @@
-# Fonte_de_Tensao_Ajustavel
+# Fonte de Tensao Ajustavel
 ### Trabalho para a Disciplina de Eletrônica para Computação:
 
 # Imagens do Circuito:
