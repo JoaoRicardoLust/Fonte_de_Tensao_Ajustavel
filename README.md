@@ -50,7 +50,7 @@
 ![protoboardPlanta](https://github.com/JoaoRicardoLust/Fonte_de_Tensao_Ajustavel/assets/162384930/0e2ab70e-f12d-4752-8a46-8c290d480563)
 
 # Video do Projeto:
-**Link do video**
+[Link do video](https://www.youtube.com/watch?v=YnGYH9RW1gc)
 
 ## Alunos:
 
