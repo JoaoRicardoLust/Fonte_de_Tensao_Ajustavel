@@ -39,6 +39,19 @@
 ![Captura de ecrã de 2024-06-17 21-31-50](https://github.com/JoaoRicardoLust/Fonte_de_Tensao_Ajustavel/assets/162384930/2487f8fc-fb85-4c25-8210-4fcaf2a393f6)
 [link do circuito](https://tinyurl.com/2d65m2x8)
 
+### Esquemático no Eagle:
+![esquematico](https://github.com/JoaoRicardoLust/Fonte_de_Tensao_Ajustavel/assets/162384930/4cb7db2c-e899-4abe-bb72-872c4150f1cd)
+
+### PCB no Eagle:
+![PCB](https://github.com/JoaoRicardoLust/Fonte_de_Tensao_Ajustavel/assets/162384930/cd9e1b3a-ef9e-4244-8eac-7ef6038c22d7)
+
+### Imagens da Fonte na Protoboad:
+![protoboard1](https://github.com/JoaoRicardoLust/Fonte_de_Tensao_Ajustavel/assets/162384930/ad0447df-37ac-4f9e-a7b0-30960c2cbbeb)
+![protoboardPlanta](https://github.com/JoaoRicardoLust/Fonte_de_Tensao_Ajustavel/assets/162384930/0e2ab70e-f12d-4752-8a46-8c290d480563)
+
+#Video do Projeto:
+**Link do video**
+
 ## Alunos:
 
 Joao Ricardo de Almeida Lustosa(JR)  
